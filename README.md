@@ -1,5 +1,5 @@
 # 💫 About Me:
-Got it! Here's the updated About Me section:<br><br>🔭 I'm currently working on — Personal projects involving AI integration <br><br>👥 I'm looking to collaborate on — Full-stack or AI/ML projects involving scalable web systems and real-world problem solving<br><br>🌱 I'm currently learning — PostgreSQL, Data Analytics, and Cloud Technology
+Got it! Here's the updated About Me section:<br><br>🔭 I'm currently working on - Personal projects involving AI integration <br><br>👥 I'm looking to collaborate on - Full-stack or AI/ML projects involving scalable web systems and real-world problem solving<br><br>🌱 I'm currently learning - PostgreSQL, Data Analytics, and Cloud Technology
 
 
 ## 🌐 Socials:
