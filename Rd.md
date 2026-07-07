@@ -3,9 +3,9 @@
 <h1 align="center"><strong>Hello There <img src="assests/IconHeader/keenobi.ico" alt="logo" width="40" height="40" /><img src="assests/IconHeader/R4p17.ico" alt="logo" width="24" height="24" />, I'm Aswin Chettri!</strong></h1>
 
 <p align="center">
-  <a href="assests/IconSocials/ln.svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/svg/475661/linkedin-color" alt="LinkedIn" title="LinkedIn" width="28" height="28" />
-  </a>
+<a href="https://www.linkedin.com/in/aswinchettri" target="_blank" rel="noopener noreferrer">
+  <img src="assests/IconSocials/ln.svg" alt="LinkedIn" title="LinkedIn" width="28" height="28" />
+</a>
   <a href="mailto:aswinkchettri@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" width="28" height="28" />
   </a>
