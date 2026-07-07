@@ -14,22 +14,39 @@
   </a>
 </p>
 <div>
-<p align="justify">
- I'm a Full Stack Developer who recently completed my Master of Computer Applications at Sikkim Manipal Institute of Technology, based out of the beautiful hills of Gangtok, Sikkim.<br>
- My current tech stack that I'm hands-on with includes React, TypeScript, Python, JavaScript, MongoDB, SQL, and a few others, <a href="https://drive.google.com/file/d/1808wdevslP7xGMFFvO-VPWRtZNj9U6Lx/view?usp=drive_link"> 📄check out my Resume </a>
-</p>
-<p align="justify">
-Technology has had my attention since long before I knew what a semicolon was for, back when Python was just a snake to me.<br>
-I'm an explorer of new technologies and an avid learner, deep into what's happening in the world of artificial intelligence and machine learning. I'm also very interested in UI/UX. <br>I'm always building something, whether it's a personal project or an experiment, and always learning along the way.
-</p>
-<p align="justify">
-Besides all the tech-related stuff, I'm a huge football fan;  <span style="color:red">Glory Glory Man United!!!</span> I'm also into Star Wars and hip hop, and I occasionally write about it all, <a href="https://substack.com/@aswinche"> check out my Substack.</a>
-</p>
-<p align="justify">
-📬Reach out to me at: <a href="mailto:aswinkchettri@gmail.com">aswinkchettri@gmail.com </a>
-<p>
+  <p align="justify">
+    I'm a Full Stack Developer who recently completed my Master of Computer Applications at Sikkim Manipal Institute of Technology, based out of the beautiful hills of Gangtok, Sikkim.<br>
+    My current tech stack that I'm hands-on with includes React, TypeScript, Python, JavaScript, MongoDB, SQL, and a few others, <a href="https://drive.google.com/file/d/1808wdevslP7xGMFFvO-VPWRtZNj9U6Lx/view?usp=drive_link">📄 check out my Resume</a>
+  </p>
+
+  <p align="justify">
+    Technology has had my attention since long before I knew what a semicolon was for, back when Python was just a snake to me.<br>
+    I'm an explorer of new technologies and an avid learner, deep into what's happening in the world of artificial intelligence and machine learning. I'm also very interested in UI/UX. <br>
+    I'm always building something, whether it's a personal project or an experiment, and always learning along the way.
+  </p>
+
+  <p align="justify">
+    Besides all the tech-related stuff, I'm a huge football fan; <span style="color:red">Glory Glory Man United!!!</span> I'm also into Star Wars and Hip Hop, and I occasionally write about it all, <a href="https://substack.com/@aswinche">check out my Substack.</a>
+  </p>
+
+  <p align="justify">
+    📬 Reach out to me at: <a href="mailto:aswinkchettri@gmail.com">aswinkchettri@gmail.com</a>
+  </p>
+   <p align="justify">
+  👾 Check out my Portfolio: <a href="https://aswinchettri.me/">Aswin</a>
+  </p>
 </div>
-## Currently Working On
-- Building ...
-- Learning ...
-- Improving ...
+
+## What I'm Up To
+- Buldiing <a href="https://github.com/AswinCheDev/StemPlayer-Online">StemPlay Online</a> - a cross platform stem splitting app inspired by the YEEZY TECH x Kano Stem Player, still in active development, but you can already try it locally via Expo Go on your phone.
+- I'm currently exploring and learning AWS, Flutter, LLMs, ML, Agentic AI, Model Context Protocol ... etc
+- Improving my current <a href="https://aswinchettri.me/">Portfolio</a> website to reflect me and my likes through the web.
+
+## Projects I Have Worked On
+- <a href="https://github.com/AswinCheDev/gov-vision">GovVision</a> - An event driven analytics microservice for real time governance insights, with an Isolation Forest anomaly detection pipeline trained on 31,500+ records and Prophet-based forecasting for project delays.
+- <a href="https://github.com/AswinCheDev/value-scout">ValueScout</a> - An AI-driven smart shopping platform that aggregates 1,000+ product listings a day and uses OpenAI's CLIP model to recommend outfits.
+
+![](https://github.com/AswinCheDev/GithubStats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/AswinCheDev/GithubStats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/AswinCheDev/GithubStats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/AswinCheDev/GithubStats/blob/generated/languages.svg#gh-light-mode-only)
