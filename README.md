@@ -39,7 +39,7 @@
 
 ## What I'm Up To Lately 
 - Buldiing <a href="https://github.com/AswinCheDev/StemPlayer-Online">StemPlay Online</a> - a cross platform stem splitting app inspired by the YEEZY TECH x Kano Stem Player, still in active development, but you can already try it locally via Expo Go on your phone.
-- - I'm currently exploring and learning AWS, Flutter, LLMs, ML, Agentic AI, Model Context Protocol,PostgreSQL etc...
+- I'm currently exploring and learning AWS, Flutter, LLMs, ML, Agentic AI, Model Context Protocol,PostgreSQL etc...
 - Improving my current <a href="https://aswinchettri.me/">Portfolio</a> website to reflect me and my likes through the web.
 
 ## Projects I Have Worked On
