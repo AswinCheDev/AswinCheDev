@@ -3,15 +3,9 @@
 <h1 align="center"><strong>Hello There <img src="assests/IconHeader/keenobi.ico" alt="logo" width="40" height="40" /><img src="assests/IconHeader/R4p17.ico" alt="logo" height="28" />, I'm Aswin Chettri!</strong></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswinchettri" target="_blank" rel="noopener noreferrer">
-    <img src="assests/IconSocials/ln.svg" alt="LinkedIn" title="LinkedIn" height="20" align="absmiddle" />
-  </a>&nbsp;
-  <a href="mailto:aswinkchettri@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" height="20" align="absmiddle" />
-  </a>&nbsp;
-  <a href="https://substack.com/@aswinche" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" title="Substack" height="18" align="absmiddle" />
-  </a>
+  <a href="https://www.linkedin.com/in/aswinchettri" target="_blank" rel="noopener noreferrer"><img src="assests/IconSocials/ln.svg" alt="LinkedIn" title="LinkedIn" height="20" border="0" align="center" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aswinkchettri@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" height="20" border="0" align="center" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://substack.com/@aswinche" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" title="Substack" height="18" border="0" align="center" /></a>
 </p>
 
 <div>
