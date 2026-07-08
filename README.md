@@ -1,18 +1,19 @@
 <p align="center"><a href="https://aswinchettri.me/"><img width="80%" alt="Hello, I'm Aswin Chettri" src="assests/ReadmeHeader.gif" /></a></p>
 
-<h1 align="center"><strong>Hello There <img src="assests/IconHeader/keenobi.ico" alt="logo" width="40" height="40" /><img src="assests/IconHeader/R4p17.ico" alt="logo" width="24" height="24" />, I'm Aswin Chettri!</strong></h1>
+<h1 align="center"><strong>Hello There <img src="assests/IconHeader/keenobi.ico" alt="logo" width="40" height="40" /><img src="assests/IconHeader/R4p17.ico" alt="logo" height="28" />, I'm Aswin Chettri!</strong></h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aswinchettri" target="_blank" rel="noopener noreferrer">
-  <img src="assests/IconSocials/ln.svg" alt="LinkedIn" title="LinkedIn" width="28" height="28" />
-</a>
+  <a href="https://www.linkedin.com/in/aswinchettri" target="_blank" rel="noopener noreferrer">
+    <img src="assests/IconSocials/ln.svg" alt="LinkedIn" title="LinkedIn" height="20" align="absmiddle" />
+  </a>&nbsp;
   <a href="mailto:aswinkchettri@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" width="28" height="28" />
-  </a>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Email" height="20" align="absmiddle" />
+  </a>&nbsp;
   <a href="https://substack.com/@aswinche" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" title="Substack" width="28" height="28" />
+    <img src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" title="Substack" height="18" align="absmiddle" />
   </a>
 </p>
+
 <div>
   <p align="justify">
     I'm a Full Stack Developer who recently completed my Master of Computer Applications at Sikkim Manipal Institute of Technology, based out of the beautiful hills of Gangtok, Sikkim.<br>
@@ -37,16 +38,19 @@
   </p>
 </div>
 
-## What I'm Up To Lately 
+## What I'm Up To Lately
+
 - Buldiing <a href="https://github.com/AswinCheDev/StemPlayer-Online">StemPlay Online</a> - a cross platform stem splitting app inspired by the YEEZY TECH x Kano Stem Player, still in active development, but you can already try it locally via Expo Go on your phone.
 - I'm currently exploring and learning AWS, Flutter, LLMs, ML, Agentic AI, Model Context Protocol,PostgreSQL etc...
 - Improving my current <a href="https://aswinchettri.me/">Portfolio</a> website to reflect me and my likes through the web.
 
 ## Projects I Have Worked On
+
 - <a href="https://github.com/AswinCheDev/gov-vision">GovVision</a> - An event driven analytics microservice for real time governance insights, with an Isolation Forest anomaly detection pipeline trained on 31,500+ records and Prophet-based forecasting for project delays.
 - <a href="https://github.com/AswinCheDev/value-scout">ValueScout</a> - An AI-driven smart shopping platform that aggregates 1,000+ product listings a day and uses OpenAI's CLIP model to recommend outfits.
 
-##  Technologies I've Worked With 👨🏼‍💻
+## Technologies I've Worked With 👨🏼‍💻
+
 <table>
   <tr>
     <th>Property</th>
@@ -161,6 +165,7 @@
 </table>
 
 ## 📊 Github Stats
+
 ![](https://github.com/AswinCheDev/GithubStats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/AswinCheDev/GithubStats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/AswinCheDev/GithubStats/blob/generated/languages.svg#gh-dark-mode-only)
