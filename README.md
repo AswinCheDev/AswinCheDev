@@ -11,7 +11,7 @@
 <div>
   <p align="justify">
     I'm a Full Stack Developer who recently completed my Master of Computer Applications at Sikkim Manipal Institute of Technology, based out of the beautiful hills of Gangtok, Sikkim.<br>
-    My current tech stack that I'm hands-on with includes React, TypeScript, Python, JavaScript, MongoDB, SQL, and a few others, <a href="[https://drive.googlek](https://drive.google.com/file/d/1hYD9Px6ltlxMZNOmIl3IcdgSe2zSriVB/view?usp=drive_link)">📄 check out my Resume</a>
+    My current tech stack that I'm hands-on with includes React, TypeScript, Python, JavaScript, MongoDB, SQL, and a few others, <a href="(https://drive.google.com/file/d/1hYD9Px6ltlxMZNOmIl3IcdgSe2zSriVB/view?usp=drive_link)">📄 check out my Resume</a>
   </p>
 
   <p align="justify">
